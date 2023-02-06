@@ -21,4 +21,4 @@ In Info.js , if button with id #info-to-blog is clicked then the user is redirec
 
 In Info.js , if button with id #info-to-home is clicked then the user is redirected from Route path="/info" to Route path="/"
 
-Demo Video
+https://d3dyfaf3iutrxo.cloudfront.net/general/upload/97d5902a49e540e183395907850ed99b.webm
